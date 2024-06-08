@@ -36,9 +36,9 @@ I am a *Data Scientist* with a strong background in *Machine Learning*, *Deep Le
 - Language Modeling
 
 ### Computer Vision (CV)
--Image Preprocessing
 - Sentiment Analysis
 - Named Entity Recognition
+- Image Preprocessing
 
 ### Data Analysis
 - Data Cleaning
@@ -78,13 +78,11 @@ I am a *Data Scientist* with a strong background in *Machine Learning*, *Deep Le
 - [Email](mailto:mahdkashif123@gmail.com)
 - [Linktree](https://linktr.ee/mahdkashif)
 
-![Profile Views](https://komarev.com/ghpvc/?username=MahdKashif-421&style=flat&color=brightgreen)
 
 ---
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MahdKashif-421&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MahdKashif&layout=compact&theme=radical)
 
 ---
 
