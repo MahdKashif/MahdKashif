@@ -83,7 +83,6 @@ I am a *Data Scientist* with a strong background in *Machine Learning*, *Deep Le
 - [Email](mailto:mahdkashif123@gmail.com)
 - [Linktree](https://linktr.ee/mahdkashif)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MahdKashif&show_icons=true&theme=radical)
 ---
 
 
