@@ -1,7 +1,7 @@
  
 # Mahd Kashif
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/m-mahd-kashif-021a40237/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/m-mahd-kashif-021a40237/) 
 [![Email](https://img.shields.io/badge/Email-mahdkashif123@gmail.com-red?style=flat&logo=gmail)](mailto:mahdkashif123@gmail.com)
 [![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=flat&logo=linktree&logoColor=white)](https://linktr.ee/mahdkashif)
 
@@ -54,6 +54,11 @@ I am a *Data Scientist* with a strong background in *Machine Learning*, *Deep Le
 ### Tools and Technologies
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![WEKA](https://img.shields.io/badge/WEKA-003366?style=flat&logo=weka&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=power-bi&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
  
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
@@ -74,7 +79,7 @@ I am a *Data Scientist* with a strong background in *Machine Learning*, *Deep Le
 
 ## 🔗 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/m-mahd-kashif-021a40237/))
+- [LinkedIn](https://www.linkedin.com/in/m-mahd-kashif-021a40237/) 
 - [Email](mailto:mahdkashif123@gmail.com)
 - [Linktree](https://linktr.ee/mahdkashif)
 
