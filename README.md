@@ -74,17 +74,13 @@ I am a *Data Scientist* with a strong background in *Machine Learning*, *Deep Le
 
 ## 🔗 Connect with Me
 
-- [LinkedIn]([https://www.linkedin.com/in/rohan-javed-b77b56219](https://www.linkedin.com/in/m-mahd-kashif-021a40237/))
+- [LinkedIn](https://www.linkedin.com/in/m-mahd-kashif-021a40237/))
 - [Email](mailto:mahdkashif123@gmail.com)
 - [Linktree](https://linktr.ee/mahdkashif)
 
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MahdKashif&show_icons=true&theme=radical)
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MahdKashif-421&show_icons=true&theme=radical)
-
-
----
 
 ## 📊 GitHub Activity
 
