@@ -21,6 +21,8 @@ I am a *Data Scientist* with a strong background in *Machine Learning*, *Deep Le
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+
 
 ### Machine Learning
 - Supervised Learning
@@ -33,11 +35,16 @@ I am a *Data Scientist* with a strong background in *Machine Learning*, *Deep Le
 - Named Entity Recognition
 - Language Modeling
 
+### Computer Vision (CV)
+-Image Preprocessing
+- Sentiment Analysis
+- Named Entity Recognition
+
 ### Data Analysis
 - Data Cleaning
 - Exploratory Data Analysis (EDA)
 - Statistical Analysis
-- Data Visualization (Matplotlib, Seaborn, Tableau)
+- Data Visualization (Matplotlib, Seaborn, Power BI, Plotly)
 
 ### Artificial Intelligence
 - Neural Networks
@@ -55,6 +62,7 @@ I am a *Data Scientist* with a strong background in *Machine Learning*, *Deep Le
 - Feature Engineering
 - Time Series Analysis
 - A/B Testing
+- WEKA- Data Mining Tool
 
 ### Soft Skills
 - Analytical Thinking
