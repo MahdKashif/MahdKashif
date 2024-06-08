@@ -59,8 +59,4 @@ I am a *Data Scientist* with a strong background in *Machine Learning*, *Deep Le
 ---
 
 
-## 📊 GitHub Activity
-
-![GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=MahdKashif&theme=radical)
-
 ![coolenvi](https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif)
