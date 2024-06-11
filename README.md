@@ -36,11 +36,11 @@ I am a *Data Scientist* with a strong background in *Machine Learning*, *Deep Le
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=power-bi&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-!TensorFlow
-!Keras
-!VSCode
-!PyTorch
-!Tableau
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-0078D7?style=flat&logo=visual-studio-code&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E76C3B?style=flat&logo=tableau&logoColor=white)
 
 ### Other Technical Skills
 - Feature Engineering
