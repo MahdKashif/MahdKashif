@@ -41,6 +41,10 @@ I am a *Data Scientist* with a strong background in *Machine Learning*, *Deep Le
 ![VSCode](https://img.shields.io/badge/VSCode-0078D7?style=flat&logo=visual-studio-code&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E76C3B?style=flat&logo=tableau&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-0059A1?style=flat&logo=opencv&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-FFC107?style=flat&logo=nltk&logoColor=white)
+![Spacy](https://img.shields.io/badge/Spacy-FFC107?style=flat&logo=spacy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit-learn-F7D02C?style=flat&logo=scikit-learn&logoColor=white)
 
 ### Other Technical Skills
 - Feature Engineering
