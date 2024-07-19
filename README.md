@@ -8,9 +8,11 @@
 
 I am a *Data Scientist* with a strong background in *Machine Learning*, *Deep Learning*, *Artificial Intelligence* and *Data-driven Statistical Decision-making*. I have done my  Bachelor's in Data Science from FAST NUCES Lahore and I’m currently learning Language Modeling, Fine-Tuning Deep Learning Models, Computer vision and NLP and looking for help with Developing and Deploying Deep Learning Projects
 
-![Allinone](https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif)
+<p align="center">
+<img align="middle" height=250px width=500px alt="GIF" src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif"/>
+</p>
+<br />
 
----
 
 ## 🛠️ Skills
 
