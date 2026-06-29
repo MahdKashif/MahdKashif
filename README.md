@@ -1,73 +1,66 @@
- 
-# Mahd Kashif
+# Hi, I'm Mahd 👋
 
+### AI/ML Engineer — I build things close to the model.
+
+Shipped **100+ gold-standard datasets** into production fine-tuning pipelines at **Microsoft · Anthropic · Moonshot AI (KIMI) · Penguin AI · Google DeepMind**. On the engineering side: LLM benchmark design, agentic workflow orchestration, self-correcting RAG pipelines, and AI automation systems.
+
+📍 Lahore, Pakistan &nbsp;·&nbsp; 📩 mahdkashif123@gmail.com &nbsp;·&nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-mahd-kashif-021a40237/)
 
 ---
 
-## 🌟 About Me
+## 🧠 What I Work On
 
-I am a *Data Scientist* with a strong background in *Machine Learning*, *Deep Learning*, *Artificial Intelligence* and *Data-driven Statistical Decision-making*. I have done my  Bachelor's in Data Science from FAST NUCES Lahore and I’m currently learning Language Modeling, Fine-Tuning Deep Learning Models, Computer vision and NLP and looking for help with Developing and Deploying Deep Learning Projects
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<p align="center">
-<img align="middle" height=250px width=500px alt="GIF" src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif"/>
-</p>
-<br />
+**🔬 RLHF & Adversarial Evaluation**
+Adversarially broke GPT-o1, GPT-4o, Gemini, Claude, DeepSeek, and Amazon Nova with metadata-stratified prompts. 95% test coverage across containerised harnesses. CoT/ReAct evaluation standard adopted across 5 model families.
 
+**📐 LLM Benchmark Engineering**
+SkillsBench for Anthropic — measuring whether Agent Skills causally improve LLM task completion across Claude Opus and Qwen 3.7 Max. Skill-dependent traps with **50–60% measured no-skill failure rates**.
 
-## 🛠️ Skills
+</td>
+<td width="50%" valign="top">
 
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-3776AB?style=flat&logo=python&logoColor=white)
-![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-181717?style=flat&logo=github&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-2496ED?style=flat&logo=docker&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-3776AB?style=flat&logo=python&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-3776AB?style=flat&logo=python&logoColor=white)
-![Data Analysis](https://img.shields.io/badge/Data%20Analysis-3776AB?style=flat&logo=python&logoColor=white)
-![Data Analytics](https://img.shields.io/badge/Data%20Analytics-3776AB?style=flat&logo=python&logoColor=white)
+**🤖 Agentic Systems**
+Multi-agent trajectory curation for Moonshot AI (KIMI) — multi-agent outperformed single-agent by **≥40%**. Desktop-agent pipelines for OSWorld. Multi-turn agentic workflow design across Slack, Asana, Deel, GitHub.
+
+**⚙️ AI Automation & QA**
+End-to-end n8n pipelines across real estate underwriting and RAG customer support. Staging gatekeeper for **10+ SaaS gym simulators** used in agent training — validating UI outcomes against initial/final JSON snapshots.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🗂️ Projects
+
+| Project | Stack | Highlight |
+|---|---|---|
+| [**Multi-RAG Agentic System**](https://github.com/MahdKashif/MultiRAG) | LangGraph · LangChain · Python | 4 RAG variants, hallucination detection gate, auto web-search fallback |
+| [**n8n Property Underwriting**](https://github.com/MahdKashif/n8n-property-underwriting) | n8n · Gemini · Census ACS · Notion | 6 chained workflows, deterministic investment math, zero manual steps |
+| [**Football Scouting Engine**](https://github.com/MahdKashif/HiddenGems) | XGBoost · SHAP · Streamlit · RAG | 1,242 players · R²=0.59 · 39% backtest appreciation |
+| [**Land Cover Segmentation**](https://github.com/MahdKashif/Partial-Cross-Entropy-Loss-for-Weakly-Supervised-Remote-Sensing-Segmentation) | TensorFlow · U-Net | 0.50 mIoU at 1% annotation density |
+
+---
+
+## 🛠️ Stack
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Data Visualization](https://img.shields.io/badge/Data%20Visualization-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Weka](https://img.shields.io/badge/Weka-003366?style=flat&logo=weka&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=white)
-
-
-### Tools and Technologies
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![WEKA](https://img.shields.io/badge/WEKA-003366?style=flat&logo=weka&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=power-bi&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-0078D7?style=flat&logo=visual-studio-code&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E76C3B?style=flat&logo=tableau&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-0059A1?style=flat&logo=opencv&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-FFC107?style=flat&logo=nltk&logoColor=white)
-![Spacy](https://img.shields.io/badge/Spacy-FFC107?style=flat&logo=spacy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit-learn-F7D02C?style=flat&logo=scikit-learn&logoColor=white)
-
-### Other Technical Skills
-- Feature Engineering
-- Time Series Analysis
-- A/B Testing
-- WEKA- Data Mining Tool
-
-### Soft Skills
-- Analytical Thinking
-- Problem-Solving
-- Team Collaboration
-- Effective Communication
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat&logo=pinecone&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
-## 🔗 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/m-mahd-kashif-021a40237/) 
-[![Email](https://img.shields.io/badge/Email-mahdkashif123@gmail.com-red?style=flat&logo=gmail)](mailto:mahdkashif123@gmail.com)
-[![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=flat&logo=linktree&logoColor=white)](https://linktr.ee/mahdkashif)
----
-
-
-![coolenvi](https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif)
+> 💼 Open to **AI Engineer · Gen AI Engineer · LLM Evaluation Engineer** roles — **remote or relocation**
